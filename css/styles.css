@@ -50,10 +50,22 @@ ul, ol {
     font-weight: 700;
     font-size: 56px;
     letter-spacing: 0.02em;
-    line-height: 60px;
+    line-height: 1.07;
+    text-align: center;
 }
 .section-header {
     font-weight: 700;
     font-size: 36px;
     letter-spacing: 0.02em;
+}
+.hero {
+    background-color: #2e2f42;
+}
+.call-for-action {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
 }
