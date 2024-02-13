@@ -57,11 +57,11 @@ ul, ol {
     line-height: 1.07;
     text-align: center;
 }
-.section-header {
+/* .section-header {
     font-weight: 700;
     font-size: 36px;
     letter-spacing: 0.02em;
-}
+} */
 .hero {
     background-color: #2e2f42;
 }
@@ -93,6 +93,9 @@ ul, ol {
     color: #434455;
 
 }
+.second-section{
+    background-color: #F4F4FD;
+}
 .staff-name {
     font-weight: 500;
     font-size: 20px;
@@ -108,6 +111,7 @@ ul, ol {
 }
 
 .portfolio-header {
+    font-size: 36px;
     line-height: 1.11;
     text-align: center;
     text-transform: capitalize;
