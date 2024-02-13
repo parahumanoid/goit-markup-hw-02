@@ -94,8 +94,19 @@ ul, ol {
     color: #434455;
 
 }
-.second-section{
+.staff{
     background-color: #F4F4FD;
+}
+.staff-header {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.staff-card {
+    background-color: #FFFFFF;
 }
 .staff-name {
     font-weight: 500;
