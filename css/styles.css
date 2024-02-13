@@ -47,6 +47,7 @@ ul, ol {
     color: #404BBF;
 }
 .page-header {
+    color: #FFFFFF;
     font-weight: 700;
     font-size: 56px;
     letter-spacing: 0.02em;
@@ -68,4 +69,24 @@ ul, ol {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFFFFF;
+    cursor: pointer;
+}
+.call-for-action:hover,
+.call-for-action:focus {
+    background-color: #404BBF;
+
+}
+.first-section-header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.first-section-paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    
 }
