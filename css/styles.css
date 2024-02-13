@@ -80,9 +80,6 @@ ul, ol {
     background-color: #404BBF;
 }
 
-.advantages-header {
-    
-}
 .advantage-card-header {
     font-weight: 500;
     font-size: 20px;
@@ -112,9 +109,6 @@ ul, ol {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-}
-
-.portfolio-section {
 }
 .portfolio-header {
     font-size: 36px;
